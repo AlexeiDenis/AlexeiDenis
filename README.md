@@ -6,7 +6,7 @@
   - Currently learning React JS
   - Next I want to learn EXPRESS JS or Nest JS.
 
-## Tools I Like To Use
+## 🔨 Tools I Like To Use
  + Vanilla CSS instead of SCSS (I know it's faster to use SCSS).
  + Vanilla JS.
  + React but in some situations Vue JS 😁.
