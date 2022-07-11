@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexeiDenis, I’m a Front End Development wannabe.
+👋 Hi, I’m @AlexeiDenis, I’m a Front End Development wannabe.
 
 ## About Me 🤓
   - I'm currently working on a PWA recipe website that would the old cookbook. 
