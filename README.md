@@ -15,6 +15,6 @@ AlexeiDenis/AlexeiDenis is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Things that I need to learn in the near future:
+## 📖 Things that I need to learn in the near future:
 - Subgrid
 - Layers
