@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @AlexeiDenis, I’m a Front End Development wannabe.
 
-## About Me
+## About Me 🤓
   - I'm currently working on a PWA recipe website that would the old cookbook. 
   - I'm  looking to improve web development skills.
   - Currently learning React JS.
   - Next I want to learn EXPRESS JS or Nest JS.
 
-## 🔨 Tools I Like To Use
+## Tools I Like To Use 🔨
  + Vanilla CSS instead of SCSS (I know it's faster to use SCSS).
  + Vanilla JS.
  + React but in some situations Vue JS 😁.
@@ -15,6 +15,6 @@ AlexeiDenis/AlexeiDenis is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## 📖 Things that I need to learn in the near future:
+## Things that I need to learn in the near future 📖
 - Subgrid
 - Layers
