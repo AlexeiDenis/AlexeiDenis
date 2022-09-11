@@ -1,10 +1,10 @@
 👋 Hi, I’m @AlexeiDenis, I’m a Front End Development wannabe.
 
 ## About Me 🤓
-  - I'm currently working on a PWA recipe website that would the old cookbook. 
+  - I'm currently working on a PWA recipe website that would replace the old cookbook. 
   - I'm  looking to improve web development skills.
-  - Currently learning React JS.
-  - Next I want to learn EXPRESS JS or Nest JS.
+  - Currently learning ReactJS.
+  - Next I want to learn NestJS.
 
 ## Tools I Like To Use 🔨
  + Vanilla CSS instead of SCSS (I know it's faster to use SCSS).
