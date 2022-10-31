@@ -3,8 +3,7 @@
 ## About Me 🤓
   - I'm currently working on a PWA recipe website that would replace the old cookbook. 
   - I'm  looking to improve web development skills.
-  - Currently learning ReactJS.
-  - Next I want to learn NestJS.
+  - Currently learning NestJS.
 
 ## Tools I Like To Use 🔨
  + Vanilla CSS instead of SCSS (I know it's faster to use SCSS).
