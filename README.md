@@ -2,7 +2,7 @@
 
 ## About Me 🤓
   - I'm  looking to improve web development skills.
-  - Currently learning NestJS.
+  - ~~Currently learning NestJS.~~
 
 ## Tools I Like To Use 🔨
  + Vanilla CSS instead of SCSS (I know it's faster to use SCSS).
