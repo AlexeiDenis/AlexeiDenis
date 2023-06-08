@@ -5,7 +5,7 @@
   - ~~Currently learning NestJS.~~
 
 ## Tools I Like To Use 🔨
- + Vanilla CSS instead of SCSS (I know it's faster to use SCSS).
+ + Vanilla CSS instead of SCSS (I know it's faster to use SCSS) << css nesting is now supported 😮 >>.
  + Vanilla JS.
  + React but in some situations Angular / Vue. 😁.
 <!---
