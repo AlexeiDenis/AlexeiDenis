@@ -7,7 +7,7 @@
 ## Tools I Like To Use 🔨
  + Vanilla CSS instead of SCSS (I know it's faster to use SCSS).
  + Vanilla JS.
- + React but in some situations Vue JS 😁.
+ + React but in some situations Angular / Vue. 😁.
 <!---
 AlexeiDenis/AlexeiDenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
